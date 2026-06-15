@@ -1,0 +1,4 @@
+torch>=2.1
+tensorboard>=2.14
+matplotlib>=3.7
+tqdm>=4.66
